@@ -11,3 +11,8 @@ const Logger = {
   debug: (msg) => console.debug(`[DEBUG] ${new Date().toISOString()} - ${msg}`)
 };
 
+//prueba de las funciones
+logMessage("LOG generico");
+Logger.info("app iniciada");
+Logger.warn("advertencia");
+Logger.error("falló algo");
