@@ -1,0 +1,6 @@
+251bd29 Merge branch 'main' of github.com:samsepiol-alt/tops_evidences docs: correccion de commit
+b83be3e test: Agrega tests simples para las funciones agregadas 	  Este commit Agrega test simples que deberan aparecer en la consola
+f0fcf3c test: Agrega tests simples para las funciones agregadas 	  Log en consola
+065f7b7 feat: Agregar logger categorizado
+5281351 refactor: Se generaliza la funcion de logger
+5f119e9 feat: agregar funcion de log basica
